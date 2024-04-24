@@ -3,16 +3,16 @@ import css from './navbar.module.css';
 const NavBar = () => {
   return (
     <nav className="flex items-center justify-between gap-8">
-      <a className={css.item} href="/">
+      <a className={css.item} href="">
         Blog
       </a>
-      <a className={css.item} href="/">
+      <a className={css.item} href="">
         Contacts
       </a>
-      <a className={css.item} href="/">
+      <a className={css.item} href="">
         FAQ
       </a>
-      <a className={css.item} href="/">
+      <a className={css.item} href="">
         About us
       </a>
       <a className={css.item} href="tel:+621278864581">
