@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RightLife-JobTask/static/css/main.e6c13ad2.css",
+    "main.js": "/RightLife-JobTask/static/js/main.0f51aac9.js",
+    "index.html": "/RightLife-JobTask/index.html",
+    "main.e6c13ad2.css.map": "/RightLife-JobTask/static/css/main.e6c13ad2.css.map",
+    "main.0f51aac9.js.map": "/RightLife-JobTask/static/js/main.0f51aac9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0f51aac9.js"
+  ]
+}
