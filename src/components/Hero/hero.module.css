@@ -1,0 +1,6 @@
+.bg_image {
+  background-image: url(../../images/hero-bg.jpg);
+  background-color: rgba(0, 0, 0, 0.8);
+  background-size: cover;
+  @apply h-screen;
+}
